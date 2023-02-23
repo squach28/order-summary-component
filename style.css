@@ -2,7 +2,7 @@ body {
     height: 100vh;
     background-image:url('./images/pattern-background-desktop.svg');
     background-repeat: no-repeat;
-    background-color: hsl(225, 100%, 98%);
+    background-color: hsl(225, 100%, 94%);
     background-size: contain;
     display: flex;
     flex-direction: column;
